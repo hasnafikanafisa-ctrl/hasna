@@ -1,0 +1,34 @@
+{
+  "name": "python-gil",
+  "version": "3.14.3",
+  "build": "h4df99d1_101",
+  "build_number": 101,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "subdir": "noarch",
+  "fn": "python-gil-3.14.3-h4df99d1_101.conda",
+  "md5": "235765e4ea0d0301c75965985163b5a1",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/python-gil-3.14.3-h4df99d1_101.conda",
+  "sha256": "233aebd94c704ac112afefbb29cf4170b7bc606e22958906f2672081bc50638a",
+  "depends": [
+    "cpython 3.14.3.*",
+    "python_abi * *_cp314"
+  ],
+  "constrains": [],
+  "noarch": "generic",
+  "license": "Python-2.0",
+  "package_type": "noarch_generic",
+  "timestamp": 1770674497000,
+  "size": 50062,
+  "requested_spec": "None",
+  "package_tarball_full_path": "/opt/conda/pkgs/python-gil-3.14.3-h4df99d1_101.conda",
+  "extracted_package_dir": "/opt/conda/pkgs/python-gil-3.14.3-h4df99d1_101",
+  "files": [],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "/opt/conda/pkgs/python-gil-3.14.3-h4df99d1_101",
+    "type": 1
+  }
+}

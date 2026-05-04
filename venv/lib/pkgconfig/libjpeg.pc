@@ -1,0 +1,10 @@
+prefix=/workspaces/hasna/venv
+exec_prefix=/workspaces/hasna/venv
+libdir=/workspaces/hasna/venv/lib
+includedir=/workspaces/hasna/venv/include
+
+Name: libjpeg
+Description: A SIMD-accelerated JPEG codec that provides the libjpeg API
+Version: 3.1.2
+Libs: -L${libdir} -ljpeg
+Cflags: -I${includedir}

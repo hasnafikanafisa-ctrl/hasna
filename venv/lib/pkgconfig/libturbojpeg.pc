@@ -1,0 +1,10 @@
+prefix=/workspaces/hasna/venv
+exec_prefix=/workspaces/hasna/venv
+libdir=/workspaces/hasna/venv/lib
+includedir=/workspaces/hasna/venv/include
+
+Name: libturbojpeg
+Description: A SIMD-accelerated JPEG codec that provides the TurboJPEG API
+Version: 3.1.2
+Libs: -L${libdir} -lturbojpeg
+Cflags: -I${includedir}
